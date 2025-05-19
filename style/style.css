@@ -1,0 +1,148 @@
+.happy{
+    font-weight: normal;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.party{
+    font-weight: bold;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 22px;
+    
+   
+}
+.first-project{
+    background:rgba(0,0,0,0.7)url(../resources/Banner\ Image.png);
+    background-blend-mode: darken;
+    width: 1320px; height: 600px;
+    margin: 50px 140px 120px 140px;
+    border-radius: 16px;
+    
+
+
+}
+.new-year-title-section{
+    text-align: center;
+    padding: 160px 344px;
+  
+
+    
+}
+.first-title{
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+.second-title{
+    font-weight: normal;
+    font-size: 24px;
+    color:#FF0000;
+    margin-bottom: 16px;
+}
+.third-title{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 16px;
+}
+
+ 
+.off-rafi{
+padding-left: 609px;
+padding-right: 608px;
+}
+
+  
+   
+
+img{
+    width: 800px;
+    height: 500px;
+
+}
+.image{
+        margin-bottom: 120px;
+        margin-left: 400px;
+        margin-right: 397px;
+       
+    }
+
+   
+
+   
+
+.Third-project{
+    background:rgba(0,0,0,0.7)url(../resources/Vectorrr.png);
+    background-blend-mode: darken;
+    width: 1334px;
+    height:602px ;
+    margin-right: 140px;
+    margin-left: 126px;
+    border-radius: 16px;
+    margin-bottom: 120px;
+    
+}
+
+
+.midnight{
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+.dolor{
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
+   
+    
+}
+.long-jump{
+    width: 319px;
+    height: 464px;
+    padding-top: 66px;
+    padding-right: 124px;
+    padding-bottom: 69px;
+   
+    
+}
+.twenty-four{
+   display: flex;
+   justify-content: space-between;
+}
+.only-left{
+    padding-top: 124px;
+    padding-left: 140px;
+}
+.buton-rock{
+    margin-left: 40px;
+}
+.fourth-project{
+    margin-left: 140px;
+    width: 1320px;
+    height: 420px;
+   
+   border-radius: 16px;
+   margin-bottom: 124px;
+}
+.address{
+    text-align: center;
+    padding: 100px 386px 110px 385px;
+}
+.hotel{
+    font-weight: 600px;
+    font-size: 32px;
+    color: #070211;
+}
+.green{
+    color: #FF0000;
+}
+.rafi{
+    width: 167px;
+    height: 56px;
+    font-weight: 600px;
+    font-size: 18px;
+background-color: #FF0000;
+border-radius: 8px;
+color: #FFFFFF;}
