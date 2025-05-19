@@ -146,3 +146,223 @@ img{
 background-color: #FF0000;
 border-radius: 8px;
 color: #FFFFFF;}
+.fifth-project{
+    width: 1320px;
+    height: 470px;
+    
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 120px;
+}
+.best{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF0000;
+    margin-top: 110px;
+}
+.soon{font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 16px;
+
+}
+  .eget{
+    font-weight: normal;
+    font-size: 20px;
+    color: #070211;
+    margin-top: 22px;
+  }
+  .egg{
+    width: 364.84px;
+    height: 364.84px;
+   
+}
+img.egg{
+    border-radius: 50%;
+    border: 20px solid red;
+    padding: 49px ;
+}
+    
+  
+
+.rakib{
+    font-weight: bold;
+    font-size: 48px;
+    color: #FF0000;
+    margin-top: 110px;
+}
+img.group-96{
+    width: 140px;
+    height: 140px;
+}
+.all-title{
+    display: flex;
+    justify-content: space-between;
+}
+.sale{
+    font-weight: bold;
+    font-size: 72px;
+    color: #070211;
+    margin-bottom: 30px;
+    margin-top: 20px;
+   
+}
+.function{
+    font-weight: normal;
+    font-size: 24px;
+    color: #070211;
+   
+
+}
+   
+.holiday{
+    color: #FF0000;
+}
+.sixth-project{
+    margin-left: 140px;
+    margin-right: 140px;
+    width: 1320px;
+    height: 987px;
+     background: url(../images/resources/Rectangle\ 2.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-bottom: 120px;
+    
+    
+    
+   
+}
+.shekhor{
+    text-align: center;
+}
+.live{
+    font-weight: normal;
+    font-size: 20px;
+    color: #070211;
+   
+}
+.image-rafi{display: flex;
+   
+}
+.box{
+    width: 674px;
+    height: 577px;
+    margin-top: 70px;
+    im
+}
+.discount{
+    width: 220px;
+    height: 220px;
+    margin-top: 120px;
+   
+}
+.girl{
+    width: 429px;
+    height: 433px;
+    margin-top: 38px;
+}
+.gifts{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF0000;
+}
+.awosme{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    width: 56px;
+    height: 60px;
+}
+.risus{
+    font-weight: normal;
+    font-size: 20px;
+    color: cadetblue;
+}
+.seventh-project{
+    margin-left: 140px;
+    width: 1320px;
+    height: 1163px;
+}
+.sixth-pic{
+    display: flex;
+    border-radius: 16px;
+}
+.next-pic{
+    display: flex;
+    border-radius: 16px;
+    
+
+}
+.bag-1{
+    width: 424px;
+    height: 450px;
+    margin-right: 24px;
+}
+.bag-2{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+}
+.juta-1{
+     width: 424px;
+    height: 450px;
+}
+.juta-2{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+}
+.chosma{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+
+}
+.churi{
+     width: 424px;
+    height: 450px;
+}
+.eightth-project{
+    width: 1320px;
+    height: 616px;
+    margin-left: 140px;
+    background-color: bisque;
+    border-radius: 16px;
+    margin-bottom: 120px;
+}
+.mail-box{
+    width: 150px;
+    height: 150px;
+    margin-top: 80px;
+    margin-left: 585px;
+    margin-right: 585px;
+  
+}
+.subscribe{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-bottom: 22px;
+    margin-top: 40px;
+}
+.sit{
+    font-weight: normal;
+    font-size: 20px;
+    color: cadetblue;}
+    
+.mariyam{
+    text-align: center;
+}
+.red{
+    background: #FF0000;
+    padding: 18px;
+    border-radius: 20px;
+    outline: none;
+}
+.form-box input {
+    padding: 18px;
+    border-radius: 20px;
+    outline: none;
+   
+}
